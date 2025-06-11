@@ -190,7 +190,7 @@ A bar chart was plotted to compare the weighted recall scores across different m
 ##  Author
 
 Name: Hareesh202003
-GitHub: > [Hareesh202003/Text-classification]{.underline}
+GitHub: > [https://github.com/Hareesh202003/Text-Classification]{.underline}
 Date:11/06/2025
 
 ---
